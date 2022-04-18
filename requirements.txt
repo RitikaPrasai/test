@@ -31,7 +31,7 @@ cligj==0.7.2
 cloudpickle==2.0.0
 colorama==0.4.4
 colour==0.1.5
-conda==4.12.0
+#conda==4.12.0
 conda-package-handling==1.8.1
 cryptography==36.0.2
 cycler==0.11.0
